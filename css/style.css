@@ -179,6 +179,10 @@ body {
   margin-bottom: 0;
 }
 
+.resume_experience ul {
+  padding-left: 40px;
+}
+
 .resume .resume_right .resume_experience ul li:before,
 .resume .resume_right .resume_education ul li:before {
   content: "";
